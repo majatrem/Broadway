@@ -15,6 +15,9 @@ h4 {
   background-image: url("../../resources/media/the-flatiron-building.png");
   background-repeat: no-repeat;
 }
+.designed {
+  background-image: url("../../resources/media/the-flatiron-building.png");
+}
 
 h3 {
   font-family: Helvetica;
