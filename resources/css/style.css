@@ -33,3 +33,7 @@ p {
   font-family: Helvetica;
   font-size: 14px;
 }
+.btn-nav {
+  font-size: 18px;
+  color: white;
+}
